@@ -1,0 +1,414 @@
+[
+  {
+    "balancesheet": [
+      {
+        "child": [
+          {
+            "name": "Cash & Cash Equivalents",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "887'500",
+            "thirdYear": "1'222'000"
+          },
+          {
+            "name": "Recievables",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "40'000",
+            "thirdYear": "48'000"
+          },
+          {
+            "name": "Inventory",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "200'000",
+            "thirdYear": "220'000"
+          },
+          {
+            "name": "Fixed Assets",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "50'000",
+            "thirdYear": "-50'000"
+          }
+        ],
+        "total": {
+          "name": "Total Assets",
+          "Unit": "USD",
+          "firstYear": "NA",
+          "secondYear": "1'177'500",
+          "thirdYear": "1'510'000"
+        }
+      },
+      {
+        "child": [
+          {
+            "name": "payables",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "887'500",
+            "thirdYear": "1'222'000"
+          },
+          {
+            "name": "Financial debt",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "40'000",
+            "thirdYear": "48'000"
+          },
+          {
+            "name": "Equity",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "200'000",
+            "thirdYear": "220'000"
+          }
+        ],
+        "total": {
+          "name": "Liabilty & Shareholder's Equity",
+          "Unit": "USD",
+          "firstYear": "NA",
+          "secondYear": "1'177'500",
+          "thirdYear": "1'510'000"
+        }
+      },
+      {
+        "child": [
+          {
+            "name": "Check",
+            "Unit": "USD",
+            "firstYear": "0",
+            "secondYear": "0",
+            "thirdYear": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cashFlow": [
+      {
+        "head": "Cash Flow from Operations(CFO)",
+        "child": [
+          {
+            "name": "Net Income",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "887'500",
+            "thirdYear": "1'222'000"
+          },
+          {
+            "name": "Addback Interest",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "40'000",
+            "thirdYear": "48'000"
+          },
+          {
+            "name": "Addback D&A",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "200'000",
+            "thirdYear": "220'000"
+          },
+          {
+            "name": "Change in receiveables",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "50'000",
+            "thirdYear": "-50'000"
+          },
+          {
+            "name": "Change in inventory",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "-100'000",
+            "thirdYear": "-50'000"
+          },
+          {
+            "name": "Change in payables",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "100'000",
+            "thirdYear": "120'000"
+          }
+        ],
+        "total": {
+          "name": "Cash Flow from Operations",
+          "Unit": "USD",
+          "firstYear": "NA",
+          "secondYear": "1'177'500",
+          "thirdYear": "1'510'000"
+        }
+      },
+      {
+        "head": "Investing Cash Flow(CFI)",
+        "child": [
+          {
+            "name": "CAPEX",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "-300'000",
+            "thirdYear": "-520'000"
+          }
+        ],
+        "total": {
+          "name": "Investing Cash Flow",
+          "Unit": "USD",
+          "firstYear": "",
+          "secondYear": "-300'000",
+          "thirdYear": "-520'000"
+        }
+      },
+      {
+        "head": "Cash Flow from Financing",
+        "child": [
+          {
+            "name": "Change in Financial Debt",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "0",
+            "thirdYear": "-500'000"
+          },
+          {
+            "name": "Interest changes",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "40'000",
+            "thirdYear": "48'000"
+          },
+          {
+            "name": "Equity financing",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "0",
+            "thirdYear": "0"
+          },
+          {
+            "name": "Dividends",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "0",
+            "thirdYear": "0"
+          }
+        ],
+        "total": {
+          "name": "Cash Flow from Financing",
+          "Unit": "USD",
+          "firstYear": "",
+          "secondYear": "-40'000",
+          "thirdYear": "-548'000"
+        }
+      },
+      {
+        "child": [
+          {
+            "name": "Change in Cash",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "837'500",
+            "thirdYear": "442'000"
+          }
+        ]
+      },
+      {
+        "child": [
+          {
+            "name": "Cash Start",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "837'500",
+            "thirdYear": "442'000"
+          }
+        ]
+      },
+      {
+        "child": [
+          {
+            "name": "Cash Start",
+            "Unit": "USD",
+            "firstYear": "",
+            "secondYear": "1'037'500",
+            "thirdYear": "1'479'000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "incomeStatement": [
+      {
+        "head": {
+          "name": "Revenues",
+          "Unit": "USD",
+          "firstYear": "NA",
+          "secondYear": "3'800'000",
+          "thirdYear": "5'550'000"
+        },
+        "child": [
+          {
+            "name": "Growth",
+            "Unit": "",
+            "firstYear": "NA",
+            "secondYear": "18%",
+            "thirdYear": "22%"
+          },
+          {
+            "name": "COGS",
+            "Unit": "USD",
+            "firstYear": "NA",
+            "secondYear": "-1'800'000",
+            "thirdYear": "-2'600'000"
+          }
+        ]
+      },
+      {
+        "head": {
+          "name": "Gross Margin",
+          "Unit": "USD",
+          "firstYear": "NA",
+          "secondYear": "2'000'000",
+          "thirdYear": "2'300'000"
+        },
+        "child": [
+          {
+            "name": "%",
+            "Unit": "%",
+            "firstYear": "52.6%",
+            "secondYear": "51.1%",
+            "thirdYear": "52.7%"
+          },
+          {
+            "name": "Sales & Marketing",
+            "Unit": "USD",
+            "firstYear": "-290'000",
+            "secondYear": "-330'000",
+            "thirdYear": "-450'000"
+          },
+          {
+            "name": "General & Admin",
+            "Unit": "USD",
+            "firstYear": "-300'000",
+            "secondYear": "-350'000",
+            "thirdYear": "-600'000"
+          },
+          {
+            "name": "Other operating expenses",
+            "Unit": "USD",
+            "firstYear": "-600'000",
+            "secondYear": "2'000'000",
+            "thirdYear": "2'300'000"
+          },
+          {
+            "name": "OPEX",
+            "Unit": "USD",
+            "firstYear": "-1'900'000",
+            "secondYear": "-1'110'000",
+            "thirdYear": "-1'380'000"
+          }
+        ]
+      },
+      {
+        "head": {
+          "name": "EBITDA",
+          "Unit": "USD",
+          "firstYear": "810'000",
+          "secondYear": "1'900'000",
+          "thirdYear": "1'520'000"
+        },
+        "child": [
+          {
+            "name": "%",
+            "Unit": "%",
+            "firstYear": "21.6%",
+            "secondYear": "26.1%",
+            "thirdYear": "27.7%"
+          },
+          {
+            "name": "Depreciation & Amortization",
+            "Unit": "USD",
+            "firstYear": "-200'000",
+            "secondYear": "-200'000",
+            "thirdYear": "-220'000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "barchartData": [
+      {
+        "name": "Jan",
+        "value": 12
+      },
+      {
+        "name": "Feb",
+        "value": 9
+      },
+      {
+        "name": "Mar",
+        "value": 5
+      },
+      {
+        "name": "Apr",
+        "value": 20
+      },
+      {
+        "name": "May",
+        "value": 3
+      },
+      {
+        "name": "Jun",
+        "value": 8
+      },
+      {
+        "name": "Jul",
+        "value": 18
+      },
+      {
+        "name": "Aug",
+        "value": 25
+      },
+      {
+        "name": "Sep",
+        "value": 20
+      },
+      {
+        "name": "Oct",
+        "value": 24
+      },
+      {
+        "name": "Nov",
+        "value": 22
+      },
+      {
+        "name": "Dec",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "appData": [
+      {
+        "appId": "1452-1870-1711-1234",
+        "client": "XYZ Corp. Pvt Ltd",
+        "contact": "Peter scarborough",
+        "amount": "$150000",
+        "risk": "Medium",
+        "status": "Pending",
+        "docs": false,
+        "meterVal": 40
+      },
+      {
+        "appId": "1566-1987-1742-1055",
+        "contact": "Scott Wagner",
+        "client": "ABC Corp. Ltd",
+        "amount": "$70000",
+        "risk": "Low",
+        "docs": true,
+        "status": "Approved",
+        "meterVal": 60
+      }
+    ]
+  }
+]
